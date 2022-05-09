@@ -12,6 +12,7 @@
 |学生|留学生|
 |:---|---:|
 | ３５６ |１４  |
+
 ![Takushoku University](hachioji.jpg "八王子国際キャンパス")
 とても綺麗です:+1:
 (http://www.takushoku-u.ac.jp)
